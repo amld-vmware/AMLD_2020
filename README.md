@@ -11,7 +11,8 @@ And while it is easy to profile and optimize single virtual machine, vSphere sta
 
 vSphere stack enables (with the explicit agreement of the owners of the environment) the collection of on demand low level performance telemetry. Based on this data we need to identify groups of virtual machines similar with respect to different properties, such as scale, utilization pattern etc. However, we will diverge from the standard clustering algorithms (although we will use one as supporting tool) and try to achieve this through embeddings.  
 
-</br> 
+</br>  
+
 ### The Dataset 
 
 The dataset consists of two main data sources related to the performance and the virtual hardware of the virtual machines (VMs).
@@ -31,7 +32,9 @@ net_packetsRx|no|numeric|count|Number of packets received during the interval.|
 net_packetsTx|np|numeric|count|Number of packets transmitted during the interval.|
 
 </br> 
+
 The **virtual hardware dataset** is a normal rectangular data frame indexed by the id of the VM. It represents “static” features that account basically for the scale of the system.  
+
 </br>  
   
 
