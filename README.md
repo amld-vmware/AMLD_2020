@@ -48,7 +48,7 @@ os_fam|no|categorical|indetity|The operating system of the VM|
 
 
 ### Notebook location 
-This repo contains the materials and the data, needed during the workshop. [The notebook, related to the workshop can be accessed from here.](https://drive.google.com/open?id=1mKx2sAdSNuslQtUsRqREsWPiGuBODtEe).  Please save a copy to your personal Drive (Go to **File->Save a copy to Drive** while you are logged in with your Google account).
+This repo contains the materials and the data, needed during the workshop. [The notebook, related to the workshop can be accessed from here.](https://drive.google.com/open?id=1mKx2sAdSNuslQtUsRqREsWPiGuBODtEe)  Please save a copy to your personal Drive (Go to **File->Save a copy to Drive** while you are logged in with your Google account).
 </br>  
-In order to use the notebook you will need to mount your Drive as a local filesystem (there is a code chunk inside the notebook) and download the dataset from remote data repo. Make sure you have ~ 30Mb of free storage on your Google Drive.  
+In order to use the notebook, you will need to mount your Drive as a local filesystem (there is a code chunk inside the notebook) and download the dataset from remote data repo. Make sure you have ~ 30Mb of free storage on your Google Drive.  
 
