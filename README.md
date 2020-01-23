@@ -1,6 +1,6 @@
 ## Problem description
 
-As two of the most-mature products, vSphere and vCenter Server provides great deal of customization and flexibility. However, given the complexity of the modern virtualization and the numerous different technologies involved in computing network and storage the customization options for VMware products grew infeasible large for common system administrators to grasp.
+As two of the most-mature products, vSphere and vCenter Server provide great deal of customization and flexibility. However, given the complexity of the modern virtualization and the numerous different technologies involved in computing network and storage the customization options for VMware products grew infeasible large for common system administrators to grasp.
 
 At the same time different workloads have different needs. There always is some tradeoff between different functionalities of the system (like throughput and latency or  consolidation and redundancy) and there is not one configuration to serve equally well all kind of workloads. Thus, understanding the purpose of the environment is crucial. 
 
@@ -49,6 +49,11 @@ os_fam|no|categorical|indetity|The operating system of the VM|
 
 </br></br>
 
+### Requirements  
+*  Google account
+*  Laptop with modern browser
+
+The notebook is precoded and It does not require programming knowledge. You will be encouraged to play around with some of the parameters, that are defined at the beginning of the code chunks.  
 
 ### Notebook location 
 This repo contains the materials and the data, needed during the workshop. [The notebook, related to the workshop can be accessed from here.](https://drive.google.com/open?id=1mKx2sAdSNuslQtUsRqREsWPiGuBODtEe)  Please save a copy to your personal Drive (Go to **File->Save a copy to Drive** while you are logged in with your Google account).
