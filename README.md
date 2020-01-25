@@ -60,3 +60,13 @@ This repo contains the materials and the data, needed during the workshop. [The 
 </br>  
 In order to use the notebook, you will need to mount your Drive as a local filesystem (there is a code chunk inside the notebook) and download the dataset from remote data repo. Make sure you have ~ 30Mb of free storage on your Google Drive.  
 
+### Contacts  
+
+**Dragomir Nikolav**  
+nikolovd@vmware.com
+
+**Dimira Petrova**  
+dpetrowa@vmware.com
+
+**Zhivko Kolev**  
+zkolev@vmware.com  
