@@ -66,7 +66,7 @@ In order to use the notebook, you will need to mount your Drive as a local files
 nikolovd@vmware.com
 
 **Dimira Petrova**  
-dpetrowa@vmware.com
+dpetrova@vmware.com
 
 **Zhivko Kolev**  
-zkolev@vmware.com  
+zkolev@vmware.com
